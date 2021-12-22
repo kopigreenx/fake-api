@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "customers": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 112233,
+      "nama": "Endar",
+      "tagihan": 60000
+    },    
+    {
+      "id": 112244,
+      "nama": "Humer",
+      "tagihan": 70000
+    },
+    {
+      "id": 112255,
+      "nama": "Rizki",
+      "tagihan": 90000
+    },    
+    {
+      "id": 112255,
+      "nama": "Pingot",
+      "tagihan": 30000
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
